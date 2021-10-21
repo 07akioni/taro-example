@@ -1,0 +1,6 @@
+{
+  "components": true,
+  "usingComponents": {
+    "world": "../world/index"
+  }
+}
